@@ -1,6 +1,6 @@
 name: tommoriarty
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.3594228110741824
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: follow
     item: null
     url: null
+typography_spectrum: 0.4584801751188934
